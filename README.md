@@ -8,7 +8,9 @@ This is a simple batch compressor Tool. 7-zip by default doens't allow the compr
 | -------------  | --- |
 | :sparkles: Name        | **Basic batch compression tool using 7zip** |
 | :label: Tech | C#, .Net 9.0 |
-| :fire: Other info     | 7-zip instalation is required: [Link](https://www.7-zip.org/) |
+| :fire: Other info     | 7-zip instalation is required: [Link](https://www.7-zip.org/)</br>.NET Version 9 is required to run. [Link](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) |
+
+## Download the Executable [here]()
 
 ## Project Details
 
