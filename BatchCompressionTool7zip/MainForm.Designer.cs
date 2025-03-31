@@ -41,7 +41,7 @@ namespace BatchCompressionTool7zip
             // rbtnFiles
             // 
             this.rbtnFiles.AutoSize = true;
-            this.rbtnFiles.Location = new System.Drawing.Point(120, 12);
+            this.rbtnFiles.Location = new System.Drawing.Point(130, 12);
             this.rbtnFiles.Name = "rbtnFiles";
             this.rbtnFiles.Size = new System.Drawing.Size(85, 17);
             this.rbtnFiles.TabIndex = 1;
@@ -87,7 +87,7 @@ namespace BatchCompressionTool7zip
             // 
             // MainForm
             // 
-            this.ClientSize = new System.Drawing.Size(220, 140);
+            this.ClientSize = new System.Drawing.Size(280, 140);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.lblSelectedPath);
             this.Controls.Add(this.btnBrowse);
