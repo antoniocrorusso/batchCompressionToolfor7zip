@@ -1,0 +1,54 @@
+## Ignore build output
+bin/
+obj/
+
+## Ignore VS Code settings
+.vscode/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Crash logs
+*.stackdump
+
+## Package management
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Build logs
+*.log
+
+## Windows thumbnails
+Thumbs.db
+
+## Compiled DLLs and EXEs
+*.dll
+*.exe
+*.pdb
+
+## Publish directory
+publish/
+
+## dotCover
+.idea/
+*.dotCover
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+## DotCover
+*.dotCover
+
+## Backup files
+*.bak
+*.tmp
+*.old
